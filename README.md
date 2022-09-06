@@ -15,7 +15,7 @@ Newyork Skyports Seaplane Base airport is the nearest Airport to the Museum.
 
 There are some options for getting to Metropolitan Museum of Art. Newark Airport Express operates a bus from Newark Airport - Terminal B to Port Authority Bus Terminal hourly. Tickets cost $5 - $17 and the journey takes 48 min. Alternatively, MTA operates a vehicle from 23St to 77St every 10 minutes. Tickets cost $1 - $3 and the journey takes 11min.
 
-* Below are the few best places to visit around the Museum
+Below are the few best places to visit around the Museum
 * Central Park
 * Solomon R. Guggenheim Museum
 * The Plaza
