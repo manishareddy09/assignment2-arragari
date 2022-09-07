@@ -10,7 +10,7 @@ The Met's permanent collection is curated by seventeen separate departments, eac
 
 ***
 Directions to the Museum from the Airport
-***
+
 Newyork Skyports Seaplane Base airport is the nearest Airport to the Museum.
 
 There are some options for getting to Metropolitan Museum of Art.
