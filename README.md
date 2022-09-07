@@ -30,7 +30,7 @@ Below are the few best places to visit around the Museum
 ***
 # Table listing Cities
 
-Below table represents the best cities to visit
+Below table represents the best cities to visit. These are the places I want to visit before I finish my Masters. I went to first two places already when I stayed in California for a week with my cousins. The other two places are few miles away from my University.
 
 |      City       |  Location        |  Time       |
 | --------------  | ---------------  | ----------- |
