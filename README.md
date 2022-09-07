@@ -30,6 +30,7 @@ Table listing Cities
 Below table represents the best cities to visit
 
 |      City       |  Location        |  Time       |
+| --------------  | ---------------  | ----------- |
 | San Francisco   |  Downtown        |  60 Mintues |
 | Sacramento      |  Natomas Park    |  30 Minutes |
 | Kansas          |  Kansas City Zoo |  60 Minutes |
