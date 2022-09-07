@@ -45,3 +45,25 @@ Below table represents the best cities to visit. These are the places I want to 
 > " Life is what happens when you're busy making other plans." — _John Lennon_
 >
 > " Get busy living or get busy dying." — _Stephen King_
+
+
+***
+
+# CODE FENCING
+
+https://www.thiscodeworks.com/sass-color-weight-mixin-stack-overflow-color-scss-mixin/61d8e96ea1bf84001538ce7d
+
+```
+@mixin card($depth) {
+  @if $depth < 1 {
+    box-shadow: none;
+  } @else if $depth > 5 {
+    @warn "Invalid $depth `#{$depth}` for mixin `card`.";
+  } @else {
+    box-shadow: bottom-shadow($depth), top-shadow($depth);  
+  }
+}
+
+```
+
+https://css-tricks.com/snippets/sass/material-shadows-mixin/
