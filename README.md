@@ -9,7 +9,7 @@ Lab Assignment 2
 The Met's permanent collection is curated by seventeen separate departments, each with a specialized staff of curators and scholars, as well as __six dedicated conservation departments__ and a __Department of Scientific Research__.This is the best thing we can see at the Museum.
 
 ***
-Directions to the Museum from the Airport
+# Directions to the Museum from the Airport
 
 Newyork Skyports Seaplane Base airport is the nearest Airport to the Museum.
 
@@ -28,7 +28,7 @@ Below are the few best places to visit around the Museum
 ![My Picture] https://github.com/manishareddy09/assignment2-arragari/blob/1b1dca860a46763e3336a36cb3858867a776093a/AboutMe.md
 
 ***
-Table listing Cities
+# Table listing Cities
 
 Below table represents the best cities to visit
 
@@ -40,7 +40,7 @@ Below table represents the best cities to visit
 | Maryville       |  Mozingo Lake    |  60 Minutes |
 
 ***
-PITHY QUOTES
+# PITHY QUOTES
 
 > " Life is what happens when you're busy making other plans." — _John Lennon_
 >
