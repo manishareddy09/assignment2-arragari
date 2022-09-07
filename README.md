@@ -42,6 +42,6 @@ Below table represents the best cities to visit
 ***
 PITHY QUOTES
 
-> Life is what happens when you're busy making other plans.— _John Lennon_
+> " Life is what happens when you're busy making other plans." — _John Lennon_
 >
-> Get busy living or get busy dying.— _Stephen King_
+> " Get busy living or get busy dying." — _Stephen King_
