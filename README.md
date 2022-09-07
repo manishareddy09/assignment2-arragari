@@ -35,3 +35,8 @@ Below table represents the best cities to visit
 | Sacramento      |  Natomas Park    |  30 Minutes |
 | Kansas          |  Kansas City Zoo |  60 Minutes |
 | Maryville       |  Mozingo Lake    |  60 Minutes |
+
+***
+PITHY QUOTES
+ > Life is what happens when you're busy making other plans.— * John Lennon *
+ > Get busy living or get busy dying.— * Stephen King *
