@@ -21,3 +21,16 @@ Below are the few best places to visit around the Museum
 * The Plaza
 * Times Square
 * The Frick Collection
+
+![My Picture] https://github.com/manishareddy09/assignment2-arragari/blob/1b1dca860a46763e3336a36cb3858867a776093a/AboutMe.md
+
+***
+Table listing Cities
+
+Below table represents the best cities to visit
+
+|      City       |  Location        |  Time       |
+| San Francisco   |  Downtown        |  60 Mintues |
+| Sacramento      |  Natomas Park    |  30 Minutes |
+| Kansas          |  Kansas City Zoo |  60 Minutes |
+| Maryville       |  Mozingo Lake    |  60 Minutes |
